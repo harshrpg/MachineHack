@@ -10,7 +10,8 @@
 
 # Jupyter Checkpoints #
 ############
-.ipynb_checkpoints
+*.ipynb_checkpoints
+*checkpoints.ipynb
 
 # Packages #
 ############
